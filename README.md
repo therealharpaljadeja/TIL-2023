@@ -7,3 +7,5 @@ Goals
 -   [ ] Learn EVM
 -   [ ] Learn GraphQL
 -   [ ] Talk atleast once at a major Web3 Event
+-   [ ] Complete Ethernaut
+-   [ ] Complete Damn-Vulnerable DeFi
