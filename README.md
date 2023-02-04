@@ -1,5 +1,7 @@
 # Learnings from Year 2023
 
+### January
+
 -   [01 Jan 2023](https://github.com/therealharpaljadeja/TIL-2023/blob/main/01-01-23.md)
 -   [02 Jan 2023](https://github.com/therealharpaljadeja/TIL-2023/blob/main/02-01-23.md)
 -   [03 Jan 2023](https://github.com/therealharpaljadeja/TIL-2023/blob/main/03-01-23.md)
@@ -31,6 +33,10 @@
 -   [29 Jan 2023](https://github.com/therealharpaljadeja/TIL-2023/blob/main/29-01-23.md)
 -   [30 Jan 2023](https://github.com/therealharpaljadeja/TIL-2023/blob/main/30-01-23.md)
 -   [31 Jan 2023](https://github.com/therealharpaljadeja/TIL-2023/blob/main/31-01-23.md)
+
+### February
+
+-   [01 Feb 2023](https://github.com/therealharpaljadeja/TIL-2023/blob/main/01-02-23.md)
 
 Goals
 
