@@ -30,6 +30,7 @@
 -   [28 Jan 2023](https://github.com/therealharpaljadeja/TIL-2023/blob/main/28-01-23.md)
 -   [29 Jan 2023](https://github.com/therealharpaljadeja/TIL-2023/blob/main/29-01-23.md)
 -   [30 Jan 2023](https://github.com/therealharpaljadeja/TIL-2023/blob/main/30-01-23.md)
+-   [31 Jan 2023](https://github.com/therealharpaljadeja/TIL-2023/blob/main/31-01-23.md)
 
 Goals
 
